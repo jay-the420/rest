@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2661" started-at="2020-01-19T14:14:13 IST" finished-at="2020-01-19T14:14:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2661" started-at="2020-01-19T14:14:13 IST" finished-at="2020-01-19T14:14:16 IST">
+      <class name="rest.extentreport">
+        <test-method status="PASS" signature="report()[pri:0, instance:rest.extentreport@47ef968d]" name="report" is-config="true" duration-ms="371" started-at="2020-01-19T14:14:13 IST" finished-at="2020-01-19T14:14:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="login()[pri:0, instance:rest.extentreport@47ef968d]" name="login" duration-ms="30" started-at="2020-01-19T14:14:14 IST" finished-at="2020-01-19T14:14:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:rest.extentreport@47ef968d]" name="teardown" is-config="true" duration-ms="2161" started-at="2020-01-19T14:14:14 IST" finished-at="2020-01-19T14:14:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- rest.extentreport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
